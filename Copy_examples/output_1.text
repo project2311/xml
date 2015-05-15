@@ -1,0 +1,12 @@
+          Leading spaces -- 2 words
+Trailing spaces                      -- 2 words
+     Leading and trailing spaces                      -- 4 words
+Only    interword     spaces -- 3 words
+     Leading,    trailing     and      interword     spaces          -- 5 words
+This line has correct spaces -- 5 words
+ -- 0 words
+Previous line was empty -- 4 words
+                       -- 0 words
+Previous line has only leader spaces -- 6 words
+OneWordLine -- 1 word
+Three word line -- 3 words
